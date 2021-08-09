@@ -13,7 +13,7 @@ The following is a link for more information about key CloudWatch metrics for Am
 
 ### Deliverables
 1. Real-time analytics AWS CloudWatch dashboard
-2. Screenshot of one EMR Cluster that I used
+2. Screenshots of most recent EMR Cluster that I used to extract, load and transform data using 6 Core nodes.
 
 ### Link to AWS CloudWatch Dashboard
 Link: https://cloudwatch.amazonaws.com/dashboard.html?dashboard=Capstone_Dashboard&context=eyJSIjoidXMtZWFzdC0xIiwiRCI6ImN3LWRiLTcwNDQwOTE4MjcyOCIsIlUiOiJ1cy1lYXN0LTFfSHl0VG05cW5mIiwiQyI6IjFoMHR1YmFzZGltMTlnaGtmbms3MWFwMWttIiwiSSI6InVzLWVhc3QtMToyYWFmOGRmMS04ODA4LTRhMzYtODRlNS05ODA2ZjdjYmNhYjciLCJNIjoiUHVibGljIn0=
